@@ -1,0 +1,18 @@
+{
+    "name": "znsstudio/createproject",
+    "description": "Make project with Laravel",
+    "keywords": ["laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samir Yahyazade",
+            "email": "info@znsstudio.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "bin": [
+        "createproject"
+    ]
+}
